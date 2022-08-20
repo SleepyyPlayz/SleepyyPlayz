@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris Wangzheng Jiang, @SleepyyPlayz
-- 👀 I’m interested in Computer Science, Game Design, Classical Music.
+- 👀 I’m interested in Computer Science, Game Design, Classical Music, Camping & Hiking, Fishing ... 
 - ✨ My available skills are: C++, Java, Python, iOS Software Development in both UIKit and SwiftUI.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 😎 I'm also a Hackathon enjoyer! Participated in 4, won 1. 
