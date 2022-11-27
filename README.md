@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Chris Wangzheng Jiang, @SleepyyPlayz
-- 👀 I’m interested in Computer Science, Game Design, Classical Music, Camping & Hiking, Fishing ... 
-- ✨ My available skills are: C++, Java, Python, iOS Software Development in both UIKit and SwiftUI.
-- 🌱 I’m currently learning Full Stack Web Development.
+- 👀 I’m interested in Software Development, Classical Music, Camping, Hiking, Fishing ... 
+- ✨ My available skills are: C, C++, Java, Python, iOS Software Development in both UIKit and SwiftUI, and Assembly.
+- 🌱 I’m currently learning Full Stack Web Development and Flutter
 - 😎 I'm also a Hackathon enjoyer! Participated in 4, won 1. 
-- 📫 You can reach me by email at jiang.wangzheng@outlook.com.
 
 <!---
 SleepyyPlayz/SleepyyPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
