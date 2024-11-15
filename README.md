@@ -10,7 +10,7 @@
     - MIPS Assembly;
     - Kernel Programming, Parallel Programming.
 <!--- - 🌱 I’m currently learning ... --->
-- 😎 I'm also a Hackathon enjoyer! Participated in 4, won 1 (Hack Chicago 2018 Best Startup Award). 
+- 😎 I'm also a Hackathon enjoyer! Participated in 5, won 1 (Hack Chicago 2018 Best Startup Award). 
 
 <!---
 SleepyyPlayz/SleepyyPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
