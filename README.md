@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris Jiang, @SleepyyPlayz
-- 👀 I’m interested in Software Development, Classical Music, Camping, Hiking, Fishing ... 
+- 👀 I’m interested in Software Development, Classical Music, Camping, Hiking, Fishing ... (outdoor boi)
 - ✨ My available skills are:
     - C, C++, Java;
     - Go;
