@@ -2,10 +2,12 @@
 - 👀 I’m interested in Software Development, Classical Music, Camping, Hiking, Fishing ... 
 - ✨ My available skills are:
     - C, C++, Java;
-    - Python (+ Django), Ruby (+ Ruby on Rails);
+    - Go;
+    - Python (+ML, +Django);
+    - Haskell (Yes I actually like the language);
+    - Ruby;
     - SQL;
-    - Haskell;
-    - HTML, CSS, JavaScript (+ React);
+    - HTML, CSS, JavaScript (+React);
     - iOS Development in UIKit & SwiftUI;
     - MIPS Assembly;
     - Kernel Programming, Parallel Programming.
