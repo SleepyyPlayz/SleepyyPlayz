@@ -2,11 +2,11 @@
 - 👀 I’m interested in Software Development, Classical Music, Camping, Hiking, Fishing ... (outdoor boi)
 - ✨ My available skills are:
     - C, C++, Java;
-    - Go;
+    - Rust, Go;
     - Python (+ML, +Django);
     - Haskell (Yes I actually like the language);
     - Ruby;
-    - SQL;
+    - SQL (DUH);
     - HTML, CSS, JavaScript (+React);
     - iOS Development in UIKit & SwiftUI;
     - MIPS Assembly;
